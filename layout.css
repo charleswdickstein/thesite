@@ -30,7 +30,8 @@ header nav ul li{
 .main_content{
 	margin-top: 0.5em;
 	padding: 15px 15px 30px 15px;
-	border: 1px solid lightblue;
+	
+	border: 2px solid lightblue;
 	border-radius: 1em;
 }
 
