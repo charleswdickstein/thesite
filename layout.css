@@ -30,7 +30,7 @@ header nav ul li{
 .main_content{
 	margin-top: 0.5em;
 	padding: 15px 15px 30px 15px;
-	
+
 	border: 2px solid lightblue;
 	border-radius: 1em;
 }
@@ -44,10 +44,6 @@ header nav ul li{
 	
 }
 
-.splashImage{
-	z-index: -10;
-
-}
 
 .sidebarImg img{
 	width: 50px;

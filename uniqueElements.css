@@ -1,0 +1,13 @@
+form {
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+
+}
+
+#assignmentHeader li{
+	text-align: center;
+	float: left;
+	margin-right: 2em;
+	
+}
